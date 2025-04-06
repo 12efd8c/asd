@@ -57,7 +57,7 @@
         ],
         "summary": "Get Financial Institutions",
         "operationId": "searchInstitutions",
-        "description": "Returns a list of financial institutions.",
+        "description": "<h2>Returns a list of financial institutions.</h2><img src=https://www.fdic.gov/assets/images/fdic-logo-white-noseal.svg?nocache>",
         "parameters": [
           {
             "in": "query",
