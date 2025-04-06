@@ -57,12 +57,12 @@
         ],
         "summary": "Get Financial Institutions",
         "operationId": "searchInstitutions",
-        "description": "<a href=asd>asd123</a><h2>Returns a list of financial institutions.</h2><img src=https://www.fdic.gov/assets/images/fdic-logo-white-noseal.svg?nocache> <h1>asd</h1> <u>asd</u> <p>123</p>",
+        "description": "<p></p><h2>Returns a list of financial institutions.</h2><img srchttps://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg> <p>Shelly has a banking institution called Shelly inc. You can querry Shelly Inc.'s data in the following way:</p>",
         "parameters": [
           {
             "in": "query",
             "name": "api_key",
-            "description": "<h1>Api key used for api.fdic.gov</h1>",
+            "description": "Api key used for api.fdic.gov",
             "required": false,
             "schema": {
               "type": "string"
