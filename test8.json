@@ -17,7 +17,7 @@
   "basePath": "/v2",
   "tags": [
     {
-      "description": "<h1>Everything about your Pets</h1><img src=https://www.fdic.gov/assets/uswds-2.6.0/img/us-flag-small.png>"
+      "description": "<h1>Everything about your Pets</h1><img src=https://www.fdic.gov/assets/uswds-2.6.0/img/us-flag-small.png width=120 heigth=120>"
       }
     
   ]
