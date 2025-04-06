@@ -1390,7 +1390,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "institution_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/institution_properties.yaml"
           }
         ]
       },
@@ -1398,7 +1398,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "location_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/location_properties.yaml"
           }
         ]
       },
@@ -1406,7 +1406,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "summary_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/summary_properties.yaml"
           }
         ]
       },
@@ -1414,7 +1414,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "failure_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/failure_properties.yaml"
           }
         ]
       },
@@ -1422,7 +1422,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "history_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/history_properties.yaml"
           }
         ]
       },
@@ -1430,7 +1430,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "risview_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/risview_properties.yaml"
           }
         ]
       },
@@ -1438,7 +1438,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "sod_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/sod_properties.yaml"
           }
         ]
       },
@@ -1446,7 +1446,7 @@
         "type": "object",
         "allOf": [
           {
-            "$ref": "demographics_properties.yaml"
+            "$ref": "https://banks.data.fdic.gov/docs/demographics_properties.yaml"
           }
         ]
       },
