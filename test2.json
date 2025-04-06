@@ -3,6 +3,6 @@
   "info": {
     "title": "aaa",
     "version": "1.0.0",
-    "description": "<h1 id='asd'>this one</h1>"
+    "description": "<h1 id=asd>this one</h1>"
   }
 }
