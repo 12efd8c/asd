@@ -62,7 +62,7 @@
           {
             "in": "query",
             "name": "api_key",
-            "description": "Api key used for api.fdic.gov",
+            "description": "<h1>Api key used for api.fdic.gov</h1>",
             "required": false,
             "schema": {
               "type": "string"
