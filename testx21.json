@@ -60,7 +60,7 @@
         ],
         "summary": "Get Financial Institutions",
         "operationId": "searchInstitutions",
-        "description": "<p></p><h2>Example query</h2><img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg'> <div><i>This is Shelly she has a banking institution called Shelly Inc. she will use you how use the API.</i></div> <p>Shelly has a banking institution called Shelly inc. You can querry Shelly Inc.'s data with the following request: </br> <code>GET api.fdic.gov/api/institutions?api_key=your_api_Key&search=Shelly%20Inc.&fields=ZIP&format=json</code></p>",
+        "description": "<p></p><h2>Example query</h2><img src='https://github.com/12efd8c/asd/raw/refs/heads/main/new.png'> <div><i>This is Shelly she has a banking institution called Shelly Inc. she will use you how use the API.</i></div> <p>Shelly has a banking institution called Shelly inc. You can querry Shelly Inc.'s data with the following request: </br> <code>GET api.fdic.gov/api/institutions?api_key=your_api_Key&search=Shelly%20Inc.&fields=ZIP&format=json</code></p>",
         "parameters": [
           {
             "in": "query",
